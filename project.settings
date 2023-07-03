@@ -82,6 +82,10 @@
             {
                 "name": "work-github",
                 "path": "/work-github"
+            },
+            {
+                "name": ".c9",
+                "path": "/.c9"
             }
         ]
     }
